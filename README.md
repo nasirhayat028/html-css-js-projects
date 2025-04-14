@@ -50,5 +50,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Connect with Me 🤝
 
-- LinkedIn: linkedin.com/in/nasir-hayat-4515202a2
+- LinkedIn: https://www.linkedin.com/in/nasir-hayat-4515202a2/
 - GitHub: https://github.com/nasirhayat028 
